@@ -8,9 +8,8 @@ A light-on-dark color scheme, also called black mode, dark mode, dark theme, nig
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jtax.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josejtax)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josejtax)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josemafd.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemafd)
 
 
 ## Tech Stack
@@ -20,10 +19,10 @@ HTML, CSS, JS
 
 ## Support
 
-For support, email jtax_devs@proton.me.
+For support, email josemafd@proton.me.
 
 
 ## Demo
 
-https://josejtax.github.io/Night-mode-JS/
+https://josemafd.github.io/Night-mode-JS/
 
