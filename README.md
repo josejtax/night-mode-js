@@ -20,4 +20,4 @@ For support, email jtax@allowcookies.dev
 
 ## Demo
 
-https://allowcookies.github.io/Night-mode-JS/
+https://madejtax.github.io/Night-mode-JS/
